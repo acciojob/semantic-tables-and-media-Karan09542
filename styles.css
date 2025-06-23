@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+table,th,td {
+	border: 1px solid black;
+}
+img, video {
+	width: 300px;
+}
+ol > li {
+	margin-bottom: 30px;
+}
